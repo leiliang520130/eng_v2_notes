@@ -1,9 +1,13 @@
 > core words
 
-accomplish	完成  
-goal	目标  
-tendency	趋势  
-managerial	经理的  
+ **中英对照表** 
+
+|英文|中文|说明|
+|:-----  |:-----|-----  |
+|accomplish | 完成 |无  |
+|goal | 目标 |无  |
+|tendency | 趋势 |无  |
+|managerial | 经理的 |无  | 
 implement	实现  
 suboptimization	局部最优化  
 achievement	完成  
